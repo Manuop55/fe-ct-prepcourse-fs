@@ -222,13 +222,14 @@ function doWhile(num) {
    // Utilizar el bucle Do-While.
    // Tu código:
 
-   var i = 0
+   var i = 0;
+
    do {
-      num = num + 5
-      i++
+      num = num + 5;
+      i++;
    } while (i < 8)
  
-   return num
+   return num;
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
